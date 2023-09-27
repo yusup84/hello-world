@@ -3,4 +3,5 @@ ini 5 langkah menjadi programmer:
 1. belajar dengan tekun
 2. berlatih dan berlatih
 3. praktek
-4. ini perubahan dari branch update-readme
+4. ini prubahan dari cabang html-skeleteon dan update-readme
+5. ini praktek cabang atau branch
